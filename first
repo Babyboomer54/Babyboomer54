@@ -1,0 +1,11 @@
+# Afficher du texte
+print("Bonjour, monde!")
+
+# Affecter une valeur à une variable
+age = 25
+
+# Utiliser une structure de contrôle (if)
+if age >= 18:
+    print("Vous êtes majeur.")
+else:
+    print("Vous êtes mineur.")
